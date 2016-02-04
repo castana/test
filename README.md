@@ -1,31 +1,22 @@
-# Awesome-name
+# test2
 
-![Badge Status](https://ci-as-a-service)
-
-OverviewOverviewOverview
+Overview
 
 ## Description
 
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
-
-***DEMO:***
+Description
 
 ![Demo](https://raw.githubusercontent.com/castana/test2/master/avatar.png)
 
 ## Features
 
-- Awesome function
-- Awesome UI
-- ...
+- function
+- UI
 
 For more information, see `awesome-tool --help`.
 
 ## Requirement
 
-- Requirement
-- Requirement
 - Requirement
 
 ## Usage
@@ -38,14 +29,9 @@ For more information, see `awesome-tool --help`.
 
     $ git clone https://github.com/
 
-## Anything Else
-
-AnythingAnythingAnything
-AnythingAnythingAnything
-AnythingAnythingAnything
-
 ## Author
 
+Castana
 
 ## License
 
