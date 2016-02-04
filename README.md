@@ -49,4 +49,5 @@ AnythingAnythingAnything
 
 ## License
 
+![MIT](https://raw.githubusercontent.com/castana/test2/master/LICENSE.txt)
 
