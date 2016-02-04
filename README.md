@@ -12,7 +12,7 @@ DescriptionDescriptionDescription
 
 ***DEMO:***
 
-![Demo](https://image-url.gif)
+![Demo](https://raw.githubusercontent.com/castana/test2/master/avatar.png)
 
 ## Features
 
